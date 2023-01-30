@@ -1,3 +1,5 @@
 {
-    "solidity.defaultCompiler": "localFile"
+    "solidity.defaultCompiler": "localFile",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true
 }
